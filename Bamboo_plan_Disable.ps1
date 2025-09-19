@@ -1,7 +1,7 @@
 # Define Bamboo credentials and target projects
 $id            = 'admin'
 $Password      = 'password'
-$projectKeys   = @("HIPAAAPI")
+$projectKeys   = @("PROJECT_KEY1", "PROJECT_KEY2", "PROJECT_KEY3")
 
 # Total counters across all projects
 $totalMainEnabled    = 0
